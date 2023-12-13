@@ -1,6 +1,6 @@
 # CS50x 
 ### Contains All Codes Of CS50X 
-#### Week 1 : C #️⃣
+#### [Week 1 : C #️⃣](https://github.com/furquan-barudgar/CS50x/tree/main/Week%201)
    - Lab 1 : Population
    - Mario Less
    - Cash
