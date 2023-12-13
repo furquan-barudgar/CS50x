@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: sort1 takes the least time in sorting the sorted lists which is the best case scenario and will take n steps which is the fastest and least steps.
+
+sort2 uses: Merge sort
+
+How do you know?: sort2 takes the least time in sorting the random lists which is the worst case and will take n log(n) steps which is the fastest and least steps.
+
+sort3 uses: Selection sort
+
+How do you know?: sort3 takes the most time in sorting the sorted lists that is the best case scenario and will take n^2 steps which is the slowest and most steps.
